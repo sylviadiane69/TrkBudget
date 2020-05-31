@@ -1,6 +1,7 @@
-
+// Data to be stored
 const FILES_TO_CACHE = [
   "/",
+  "/index.html",
   "/db.js",
   "/index.js",
   "/styles.css",
@@ -11,6 +12,7 @@ const FILES_TO_CACHE = [
   'https://cdn.jsdelivr.net/npm/chart.js@2.8.0'
 ];
 
+// Location of data stored
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
