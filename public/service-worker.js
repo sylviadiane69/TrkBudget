@@ -9,10 +9,10 @@ const FILES_TO_CACHE = [
   "/favicon.ico",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
-  'https://cdn.jsdelivr.net/npm/chart.js@2.8.0'
+  "https://cdn.jsdelivr.net/npm/chart.js@2.8.0"
 ];
 
-// Location of data stored
+// Location offline data is stored
 const CACHE_NAME = "static-cache-v2";
 const DATA_CACHE_NAME = "data-cache-v1";
 
