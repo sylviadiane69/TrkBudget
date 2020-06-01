@@ -22,6 +22,9 @@ Link to Github: https://github.com/sylviadiane69/TrkBudget
 
 Link to Deployed App: https://powerful-mountain-78400.herokuapp.com/
 
+<img src="images/Terminal.png" width="400"> <img src="images/BT1.png" width="400">
+<img src="images/BT2.png" width="400"> <img src="images/BT3.png" width="400">
+
 
 
 
